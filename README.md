@@ -1,9 +1,8 @@
 ### Hi there I'm Steve 👋
 
-I'm a Fullstack Engineer that pivoted from solving business problems in tech sales (Machine Learning/Ai space)
-to solving business problems with code. @UC Berkeley '19"
+I sold a Machine Learning data labeling platform for 2 years and then pivoted to full stack engineering with python, javascript, react and redux.
 
-I have spent the last 7 months digging deep into code and building fun projects with great people. I encourage you to take a peek at my work below!
+I enjoy building technology and being curious about how to improve my code style/maintability. 
 
 <!--
 **scorrea310/scorrea310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
