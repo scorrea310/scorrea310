@@ -2,7 +2,7 @@
 
 I sold a Machine Learning data labeling platform for 2 years and then pivoted to full stack engineering.
 
-I'm highly coachable individal that enjoys being curious about how to improve my code style/maintability. 
+I'm highly coachable individal that enjoys improving my code style/maintability. 
 
 Skills: Javascript, Python, Flask, Express, React, Redux, PostgreSQL, SQL, Sequelize, CSS, HTML, Agile Methodologies.
 
