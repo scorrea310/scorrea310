@@ -1,6 +1,6 @@
 ### Hi there I'm Steve 👋
 
-I sold a Machine Learning data labeling platform for 2 years and then pivoted to full stack engineering with python, javascript, react and redux.
+I sold a Machine Learning data labeling platform for 2 years and then pivoted to full stack engineering.
 
 I'm highly coachable individal that enjoys being curious about how to improve my code style/maintability. 
 
