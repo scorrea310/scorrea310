@@ -2,7 +2,7 @@
 
 I sold a Machine Learning data labeling platform for 2 years and then pivoted to full stack engineering.
 
-I'm highly coachable individal that enjoys improving my code style/maintability. 
+I'm highly coachable individual that enjoys learning about design patterns and making beautiful intuitive apps. 
 
 When I'm not coding I love hanging out with friends, going on runs and playing soccer and basketball.
 
