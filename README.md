@@ -1,14 +1,33 @@
-### Hi there I'm Steve 👋
+## Hi there I'm Steve 👋
 
-I sold a Machine Learning data labeling platform for 2 years and then pivoted to full stack engineering.
+I'm a former Enterprise Account Executive that pivoted from selling ML/AI technology to solving tricky problems as a software engineer.
 
-I'm highly coachable individual that enjoys learning about design patterns and making beautiful intuitive apps. 
+Things I enjoy doing outside of coding include going on runs, playing guitar, playing soccer, playing basketball, watching soccer, and eating my moms amazing mexican dishes 🙂
 
-When I'm not coding I love hanging out with friends, going on runs and playing soccer and basketball.
+### Languages & Tools:
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) 
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFE873&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
+![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 
-Skills: Javascript, Python, Flask, Express, React, Redux, PostgreSQL, SQL, Sequelize, CSS, HTML, Agile Methodologies.
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
+![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
+![Sequelize](https://img.shields.io/static/v1?style=for-the-badge&message=Sequelize&color=222222&logo=Sequelize&logoColor=52B0E7&label=)
 
-[![icons8-linkedin-48](https://user-images.githubusercontent.com/46228676/160207962-49a5af1b-556b-4e9d-811d-c51aeae3531d.png)](https://www.linkedin.com/in/steve-correa/)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
+![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+![Mocha](https://img.shields.io/static/v1?style=for-the-badge&message=Mocha&color=8D6748&logo=Mocha&logoColor=FFFFFF&label=)
+![Chai](https://img.shields.io/static/v1?style=for-the-badge&message=Chai&color=A30701&logo=Chai&logoColor=FFFFFF&label=)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scorrea310&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
