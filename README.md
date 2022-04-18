@@ -29,9 +29,15 @@ Things I enjoy doing outside of coding include going on runs, playing guitar, pl
 ![Mocha](https://img.shields.io/static/v1?style=for-the-badge&message=Mocha&color=8D6748&logo=Mocha&logoColor=FFFFFF&label=)
 ![Chai](https://img.shields.io/static/v1?style=for-the-badge&message=Chai&color=A30701&logo=Chai&logoColor=FFFFFF&label=)
 
+### Let's Chat!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=scorrea310&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][1]
+[![AngelList](https://img.shields.io/static/v1?style=for-the-badge&message=AngelList&color=000000&logo=AngelList&logoColor=FFFFFF&label=)][2]
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=scorrea310&show_icons=true&&count_private=true&include_all_commits=true&theme=synthwave&border_color=FFFFF" />
+
+[1]: https://www.linkedin.com/in/steve-correa/
+[2]: https://angel.co/u/steve-correa-310
 
 <!--
 **scorrea310/scorrea310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
