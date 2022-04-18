@@ -2,7 +2,7 @@
 
 I'm a former Enterprise Account Executive that pivoted from selling ML/AI technology to solving tricky problems as a software engineer.
 
-Things I enjoy doing outside of coding include going on runs, playing guitar, playing soccer, playing basketball, watching soccer, and eating my moms amazing mexican dishes 🙂
+Things I enjoy doing outside of coding include going on runs, playing guitar, playing soccer, playing basketball, watching soccer, and eating my moms amazing mexican dishes.
 
 ### Languages & Tools:
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) 
