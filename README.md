@@ -1,5 +1,3 @@
-## Hi there I'm Steve 👋
-
 I'm a former Enterprise Account Executive that pivoted from selling ML/AI technology to solving tricky problems as a software engineer.
 
 Things I enjoy doing outside of coding include going on runs, playing guitar, playing soccer, playing basketball, watching soccer, and eating my moms amazing mexican dishes.
