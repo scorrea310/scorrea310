@@ -1,6 +1,4 @@
-I'm a former Enterprise Account Executive that pivoted from selling ML/AI technology to solving tricky problems as a software engineer.
-
-Things I enjoy doing outside of coding include going on runs, playing guitar, playing soccer, playing basketball, watching soccer, and eating my moms amazing mexican dishes.
+Hello, I'm a Software engineer with 2 years of experience looking for my next opportunity. Strong skills in TypeScript/JavaScript, React, Node.js, Python, Ruby on Rails, and AWS.
 
 ### Languages & Tools:
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) 
@@ -27,7 +25,7 @@ Things I enjoy doing outside of coding include going on runs, playing guitar, pl
 ![Mocha](https://img.shields.io/static/v1?style=for-the-badge&message=Mocha&color=8D6748&logo=Mocha&logoColor=FFFFFF&label=)
 ![Chai](https://img.shields.io/static/v1?style=for-the-badge&message=Chai&color=A30701&logo=Chai&logoColor=FFFFFF&label=)
 
-### Let's Chat!
+### Connect with me on
 
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][1]
 [![AngelList](https://img.shields.io/static/v1?style=for-the-badge&message=AngelList&color=000000&logo=AngelList&logoColor=FFFFFF&label=)][2]
