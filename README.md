@@ -1,4 +1,4 @@
-Hello, I'm a Software engineer with 2 years of experience looking for my next opportunity. Strong skills in TypeScript/JavaScript, React, Node.js, Python, Ruby on Rails, and AWS.
+Hello, I'm a Software engineer with 3 years of experience. Strong skills in TypeScript/JavaScript, React, Node.js, Python, Ruby on Rails, and AWS.
 
 ### Languages & Tools:
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) 
